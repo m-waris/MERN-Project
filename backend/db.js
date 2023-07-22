@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
-// Your MongoDB connection URL
-const url = 'mongodb+srv://mwarismahmood:BNezrf5jtQOTTxhl@cluster0.dq9xnyf.mongodb.net/foodappdb?retryWrites=true&w=majority';
+
+const url = '';
 
 // Function to establish a connection to MongoDB
 const databaseConnection = async () => {
